@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Terminal Game
+# Codeacademy Tic-Tac-Toe Terminal Game
 
 Welcome to my Tic-Tac-Toe game! This is a simple terminal-based version of the classic Tic-Tac-Toe game, designed as a beginner Python project. It allows two players to play Tic-Tac-Toe against each other in the terminal.
 
